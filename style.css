@@ -1,3 +1,59 @@
 body{
     background-color: black;
+       }
+#imagem_bg{
+    padding: 0%;
+    margin-left: 5%;
+    position: absolute;
+}
+
+.menu {
+    display: flex;
+    justify-content: center; 
+    }
+#button_email{
+    margin:15px;
+}
+#button_linkedin{
+    margin:15px;
+}
+#button_github{
+    margin:15px;
+}
+#button_whatsapp{
+    margin:15px;
+}
+#button_instagram{
+    margin:15px;
+}
+#imagem_pessoal{
+   margin-left:65%;
+   margin-top: 5%;
+   position:absolute;
+}
+#nome{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    color:darkgray;
+    margin-top: 6%;
+    margin-left: 35%;
+    position: absolute;
+}
+#atribuicao{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    font-size: 18px;
+    margin-top: 15%;
+    margin-left: 27%;
+    position: absolute;
+}
+#resumo{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 15px;
+    margin-top: 16%;
+    margin-left: 26%;
+    position: absolute;
+    text-align:start;
+}
 }
